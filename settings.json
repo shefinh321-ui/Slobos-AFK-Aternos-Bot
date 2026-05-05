@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "LOSTBOY69.aternos.me"
+    "ip": "LOSTBOY69.aternos.me:34040"
     "port": 34040,
     "version": "1.21.11",
     "try-creative": false
